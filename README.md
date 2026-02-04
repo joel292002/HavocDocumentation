@@ -1,4 +1,4 @@
-# HavocDocumentation
+# Cyberprojects Documentation
 
 This repository is a personal collection of cybersecurity write-ups and notes from CTF challenges, primarily from platforms like TryHackMe.
 
